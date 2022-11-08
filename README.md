@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 布局设置 -->
+<div align="center|left|right"></div>
+<!-- 图片组件 -->
+<img width=".." align="center|left|right" src="..." /></img>
+<!-- 链接 -->
+<a href=".."></a>
+<!-- 文本 -->
+<p></p>
+
+<!-- Markdown -->
+![Who's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaofuquan1)
+<!-- HTML -->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yaofuquan1" />
+
